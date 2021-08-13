@@ -13,7 +13,7 @@ body {
 .navegador {
     display: flex;
     flex-direction: row;
-    justify-content: end;
+    justify-content: flex-end;
     margin: 10px;
     padding: 10px;
     align-items: center;
